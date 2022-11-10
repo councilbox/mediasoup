@@ -35,7 +35,6 @@ mediasoup and its client side libraries are designed to accomplish with the foll
 * Support all existing WebRTC endpoints.
 * Enable integration with well known multimedia libraries/tools.
 
-
 ## Architecture
 
 ![][mediasoup-architecture]
